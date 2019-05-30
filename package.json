@@ -1,0 +1,25 @@
+{
+  "name": "stockprice",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "chai": "^4.2.0",
+    "chai-http": "^4.3.0",
+    "cookie-parser": "~1.4.3",
+    "cors": "^2.8.5",
+    "debug": "~2.6.9",
+    "dotenv": "^8.0.0",
+    "express": "~4.16.0",
+    "http-errors": "~1.6.2",
+    "mocha": "^6.1.4",
+    "mongodb": "^3.2.6",
+    "mongoose": "^5.5.11",
+    "morgan": "~1.9.0",
+    "node-sass-middleware": "0.11.0",
+    "nodemon": "^1.19.0",
+    "pug": "2.0.0-beta11"
+  }
+}
